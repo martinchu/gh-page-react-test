@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/martinchu/gh-page-react-test/static/css/main.b100e6da.chunk.css",
-    "main.js": "/martinchu/gh-page-react-test/static/js/main.0c9d85f9.chunk.js",
-    "main.js.map": "/martinchu/gh-page-react-test/static/js/main.0c9d85f9.chunk.js.map",
-    "runtime-main.js": "/martinchu/gh-page-react-test/static/js/runtime-main.ef08612c.js",
-    "runtime-main.js.map": "/martinchu/gh-page-react-test/static/js/runtime-main.ef08612c.js.map",
-    "static/js/2.39d87294.chunk.js": "/martinchu/gh-page-react-test/static/js/2.39d87294.chunk.js",
-    "static/js/2.39d87294.chunk.js.map": "/martinchu/gh-page-react-test/static/js/2.39d87294.chunk.js.map",
-    "index.html": "/martinchu/gh-page-react-test/index.html",
-    "precache-manifest.ede01b105bb6b0aac5ce0fccef7fe732.js": "/martinchu/gh-page-react-test/precache-manifest.ede01b105bb6b0aac5ce0fccef7fe732.js",
-    "service-worker.js": "/martinchu/gh-page-react-test/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/martinchu/gh-page-react-test/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/martinchu/gh-page-react-test/static/media/logo.25bf045c.svg"
+    "main.css": "/gh-page-react-test/static/css/main.b100e6da.chunk.css",
+    "main.js": "/gh-page-react-test/static/js/main.7826c25e.chunk.js",
+    "main.js.map": "/gh-page-react-test/static/js/main.7826c25e.chunk.js.map",
+    "runtime-main.js": "/gh-page-react-test/static/js/runtime-main.e00c0a20.js",
+    "runtime-main.js.map": "/gh-page-react-test/static/js/runtime-main.e00c0a20.js.map",
+    "static/js/2.39d87294.chunk.js": "/gh-page-react-test/static/js/2.39d87294.chunk.js",
+    "static/js/2.39d87294.chunk.js.map": "/gh-page-react-test/static/js/2.39d87294.chunk.js.map",
+    "index.html": "/gh-page-react-test/index.html",
+    "precache-manifest.3b8aacd664a75ada8ac701a1235f3780.js": "/gh-page-react-test/precache-manifest.3b8aacd664a75ada8ac701a1235f3780.js",
+    "service-worker.js": "/gh-page-react-test/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/gh-page-react-test/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/gh-page-react-test/static/media/logo.25bf045c.svg"
   }
 }
